@@ -9,3 +9,5 @@ seperti 1,1,1,1,2,2,3
 
 Yang ketiga akan muncul hasil dari modus yang kita input
 Modus: 1, dari contoh diatas
+
+Tugas 3 balblabla
